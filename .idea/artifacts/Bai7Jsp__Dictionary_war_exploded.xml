@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Bai7Jsp_ Dictionary:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bai7Jsp__Dictionary_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Bai7Jsp_ Dictionary/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Bai7Jsp_ Dictionary" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
